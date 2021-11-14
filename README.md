@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pulangkalabaw
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning MERN Full Stack
-- 💞️ I’m looking to collaborate on world peace
+- 💞️ I’m looking to collaborate to discuss the world peace
 - 📫 How to reach me in yo mom's old house
 
 
